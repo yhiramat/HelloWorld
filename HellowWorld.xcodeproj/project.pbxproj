@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					5E8479F11DBDD67A0040286E = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = GT3TGZ3E9N;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GT3TGZ3E9N;
 				INFOPLIST_FILE = HellowWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.yoshitaka.hiramatsu.HellowWorld;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GT3TGZ3E9N;
 				INFOPLIST_FILE = HellowWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.yoshitaka.hiramatsu.HellowWorld;
